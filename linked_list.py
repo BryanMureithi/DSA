@@ -100,7 +100,7 @@ class LinkedList:
               previous = current
               current = current.next_node
 
-      return current                               
+      return current                                
 
     def __repr__(self):
         """
